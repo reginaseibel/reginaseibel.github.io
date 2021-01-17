@@ -2,8 +2,8 @@
   "name": "Regina Seibel",
   "short_name": "Regina Seibel",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "rgb(251, 191, 183)",
+  "background_color": "rgb(251, 191, 183)",
   "icons": [{
     "src": "/images/icon_hu3c3dd84953662fd1b2328a2badd57da6_25298_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
