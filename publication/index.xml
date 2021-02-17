@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Regina Seibel</title>
+    <link>https://reginaseibel.github.io/publication/</link>
+      <atom:link href="https://reginaseibel.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reginaseibel.github.io/images/icon_hu3c3dd84953662fd1b2328a2badd57da6_25298_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://reginaseibel.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Collusion by Exclusion in Public Procurement Auctions with Bidder Preselection</title>
+      <link>https://reginaseibel.github.io/publication/collusion/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://reginaseibel.github.io/publication/collusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Killer Acquisitions and Beyond: Policy Effects on Innovation Strategies</title>
+      <link>https://reginaseibel.github.io/publication/killer_acquisitions/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://reginaseibel.github.io/publication/killer_acquisitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inconsistent Time Preferences and On-the-job Search? When it Pays to be Naive </title>
+      <link>https://reginaseibel.github.io/publication/ojs/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://reginaseibel.github.io/publication/ojs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
