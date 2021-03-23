@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>auctions | Regina Seibel</title>
-    <link>https://reginaseibel.github.io/tag/auctions/</link>
-      <atom:link href="https://reginaseibel.github.io/tag/auctions/index.xml" rel="self" type="application/rss+xml" />
-    <description>auctions</description>
+    <title>platform | Regina Seibel</title>
+    <link>https://reginaseibel.github.io/tag/platform/</link>
+      <atom:link href="https://reginaseibel.github.io/tag/platform/index.xml" rel="self" type="application/rss+xml" />
+    <description>platform</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://reginaseibel.github.io/images/icon_hu3c3dd84953662fd1b2328a2badd57da6_25298_512x512_fill_lanczos_center_2.png</url>
-      <title>auctions</title>
-      <link>https://reginaseibel.github.io/tag/auctions/</link>
+      <title>platform</title>
+      <link>https://reginaseibel.github.io/tag/platform/</link>
     </image>
     
     <item>
-      <title>Collusion by Exclusion in Public Procurement</title>
-      <link>https://reginaseibel.github.io/publication/collusion/</link>
+      <title>Innovation and Product Entry on Amazon</title>
+      <link>https://reginaseibel.github.io/publication/amazon/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://reginaseibel.github.io/publication/collusion/</guid>
+      <guid>https://reginaseibel.github.io/publication/amazon/</guid>
       <description></description>
     </item>
     

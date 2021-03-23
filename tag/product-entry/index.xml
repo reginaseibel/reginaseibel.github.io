@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>innovation | Regina Seibel</title>
-    <link>https://reginaseibel.github.io/tag/innovation/</link>
-      <atom:link href="https://reginaseibel.github.io/tag/innovation/index.xml" rel="self" type="application/rss+xml" />
-    <description>innovation</description>
+    <title>product entry | Regina Seibel</title>
+    <link>https://reginaseibel.github.io/tag/product-entry/</link>
+      <atom:link href="https://reginaseibel.github.io/tag/product-entry/index.xml" rel="self" type="application/rss+xml" />
+    <description>product entry</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://reginaseibel.github.io/images/icon_hu3c3dd84953662fd1b2328a2badd57da6_25298_512x512_fill_lanczos_center_2.png</url>
-      <title>innovation</title>
-      <link>https://reginaseibel.github.io/tag/innovation/</link>
+      <title>product entry</title>
+      <link>https://reginaseibel.github.io/tag/product-entry/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://reginaseibel.github.io/publication/amazon/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://reginaseibel.github.io/publication/amazon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Killer Acquisitions and Beyond: Policy Effects on Innovation Strategies</title>
-      <link>https://reginaseibel.github.io/publication/killer_acquisitions/</link>
-      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://reginaseibel.github.io/publication/killer_acquisitions/</guid>
       <description></description>
     </item>
     
