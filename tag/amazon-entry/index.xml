@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amazon entry | Regina Seibel</title>
+    <link>https://reginaseibel.github.io/tag/amazon-entry/</link>
+      <atom:link href="https://reginaseibel.github.io/tag/amazon-entry/index.xml" rel="self" type="application/rss+xml" />
+    <description>amazon entry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://reginaseibel.github.io/images/icon_hu2da0c2fc9d0f11f98483a2cd2494907b_3838835_512x512_fill_lanczos_center_2.png</url>
+      <title>amazon entry</title>
+      <link>https://reginaseibel.github.io/tag/amazon-entry/</link>
+    </image>
+    
+    <item>
+      <title>Amazon Entry on Amazon Marketplace</title>
+      <link>https://reginaseibel.github.io/publication/amazon_entry/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://reginaseibel.github.io/publication/amazon_entry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
