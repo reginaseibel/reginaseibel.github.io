@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simon Zuzek | Regina Seibel</title>
-    <link>https://reginaseibel.github.io/author/simon-zuzek/</link>
-      <atom:link href="https://reginaseibel.github.io/author/simon-zuzek/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/simon-zuzek/</link>
+      <atom:link href="/author/simon-zuzek/index.xml" rel="self" type="application/rss+xml" />
     <description>Simon Zuzek</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://reginaseibel.github.io/images/icon_hu74dacb11fc20b6d5e56d92824e5407ce_4775430_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu74dacb11fc20b6d5e56d92824e5407ce_4775430_512x512_fill_lanczos_center_2.png</url>
       <title>Simon Zuzek</title>
-      <link>https://reginaseibel.github.io/author/simon-zuzek/</link>
+      <link>/author/simon-zuzek/</link>
     </image>
     
     <item>
       <title>Amazon Entry on Amazon Marketplace</title>
-      <link>https://reginaseibel.github.io/publication/amazon_entry/</link>
+      <link>/publication/amazon_entry/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://reginaseibel.github.io/publication/amazon_entry/</guid>
+      <guid>/publication/amazon_entry/</guid>
       <description></description>
     </item>
     

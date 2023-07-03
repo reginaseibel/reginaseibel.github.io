@@ -1,8 +1,239 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-<url>
-    <loc>https://reginaseibel.github.io/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+  
+  <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url>
+  
+  <url>
+    <loc>/tag/auctions/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/bid-rigging/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/collusion/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/collusion/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/public-procurement/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/regina-seibel/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/samuel-skoda/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/florian-dendorfer/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/information-externalities/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/market-dynamics/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matteo-courthoud/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/platforms/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/product-reviews/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/social-learning/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ratings/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/commitment/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthias-fahn/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/on-the-job-search/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/present-bias/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ojs/</loc>
+    <lastmod>2022-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/amazon-entry/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/amazon_entry/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gregory-crawford/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/innovation/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/simon-zuzek/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/armin-schmutzler/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/igor-letina/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/killer-acquisitions/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/killer_acquisitions/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/merger-policy/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/potential-competition/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/start-ups/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/information/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/amazon/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/platform/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/product-entry/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>product reviews | Regina Seibel</title>
-    <link>https://reginaseibel.github.io/tag/product-reviews/</link>
-      <atom:link href="https://reginaseibel.github.io/tag/product-reviews/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/product-reviews/</link>
+      <atom:link href="/tag/product-reviews/index.xml" rel="self" type="application/rss+xml" />
     <description>product reviews</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://reginaseibel.github.io/images/icon_hu74dacb11fc20b6d5e56d92824e5407ce_4775430_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu74dacb11fc20b6d5e56d92824e5407ce_4775430_512x512_fill_lanczos_center_2.png</url>
       <title>product reviews</title>
-      <link>https://reginaseibel.github.io/tag/product-reviews/</link>
+      <link>/tag/product-reviews/</link>
     </image>
     
     <item>
       <title>Social Learning and Market Structure: The Case of Airbnb</title>
-      <link>https://reginaseibel.github.io/publication/ratings/</link>
+      <link>/publication/ratings/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://reginaseibel.github.io/publication/ratings/</guid>
+      <guid>/publication/ratings/</guid>
       <description></description>
     </item>
     

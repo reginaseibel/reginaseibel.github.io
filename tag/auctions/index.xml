@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>auctions | Regina Seibel</title>
-    <link>https://reginaseibel.github.io/tag/auctions/</link>
-      <atom:link href="https://reginaseibel.github.io/tag/auctions/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/auctions/</link>
+      <atom:link href="/tag/auctions/index.xml" rel="self" type="application/rss+xml" />
     <description>auctions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://reginaseibel.github.io/images/icon_hu74dacb11fc20b6d5e56d92824e5407ce_4775430_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu74dacb11fc20b6d5e56d92824e5407ce_4775430_512x512_fill_lanczos_center_2.png</url>
       <title>auctions</title>
-      <link>https://reginaseibel.github.io/tag/auctions/</link>
+      <link>/tag/auctions/</link>
     </image>
     
     <item>
       <title>Collusion by Exclusion in Public Procurement</title>
-      <link>https://reginaseibel.github.io/publication/collusion/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://reginaseibel.github.io/publication/collusion/</guid>
+      <link>/publication/collusion/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/collusion/</guid>
       <description></description>
     </item>
     
