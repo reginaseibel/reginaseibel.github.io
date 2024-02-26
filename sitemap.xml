@@ -158,6 +158,31 @@
   </url>
   
   <url>
+    <loc>/tag/commitment/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthias-fahn/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/on-the-job-search/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/present-bias/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ojs/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/amazon-entry/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -209,26 +234,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/commitment/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/matthias-fahn/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/on-the-job-search/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/present-bias/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/ojs/</loc>
   </url>
   
 </urlset>
