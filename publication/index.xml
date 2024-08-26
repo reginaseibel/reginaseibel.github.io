@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu74dacb11fc20b6d5e56d92824e5407ce_4775430_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>The Cost of the Cold-Start Problem on Airbnb</title>
+      <link>/publication/ratings/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/ratings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Killer Acquisitions and Beyond: Policy Effects on Innovation Strategies</title>
@@ -21,18 +29,18 @@
     </item>
     
     <item>
-      <title>Collusion by Exclusion in Public Procurement</title>
-      <link>/publication/collusion/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/collusion/</guid>
+      <title>Mechanisms of Common Ownership</title>
+      <link>/publication/common_ownership/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/common_ownership/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Social Learning and Market Structure: The Case of Airbnb</title>
-      <link>/publication/ratings/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/ratings/</guid>
+      <title>Collusion by Exclusion in Public Procurement</title>
+      <link>/publication/collusion/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/collusion/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weicheng Min | Regina Seibel</title>
+    <link>/author/weicheng-min/</link>
+      <atom:link href="/author/weicheng-min/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weicheng Min</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu74dacb11fc20b6d5e56d92824e5407ce_4775430_512x512_fill_lanczos_center_2.png</url>
+      <title>Weicheng Min</title>
+      <link>/author/weicheng-min/</link>
+    </image>
+    
+    <item>
+      <title>Mechanisms of Common Ownership</title>
+      <link>/publication/common_ownership/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/common_ownership/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

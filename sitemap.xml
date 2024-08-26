@@ -3,6 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/florian-dendorfer/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/information-externalities/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/market-dynamics/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/platforms/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/product-reviews/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/regina-seibel/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/social-learning/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ratings/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -13,7 +88,12 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/tag/common-ownership/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/florian-ederer/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,6 +118,11 @@
   </url>
   
   <url>
+    <loc>/publication/common_ownership/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/merger-policy/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -48,38 +133,13 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/regina-seibel/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/start-ups/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/author/weicheng-min/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -110,46 +170,6 @@
   <url>
     <loc>/author/samuel-skoda/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/0/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/florian-dendorfer/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/information-externalities/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/market-dynamics/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/platforms/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/product-reviews/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/social-learning/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ratings/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
