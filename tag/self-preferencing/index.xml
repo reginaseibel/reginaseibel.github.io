@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Florian Dendorfer | Regina Seibel</title>
-    <link>/author/florian-dendorfer/</link>
-      <atom:link href="/author/florian-dendorfer/index.xml" rel="self" type="application/rss+xml" />
-    <description>Florian Dendorfer</description>
+    <title>self-preferencing | Regina Seibel</title>
+    <link>/tag/self-preferencing/</link>
+      <atom:link href="/tag/self-preferencing/index.xml" rel="self" type="application/rss+xml" />
+    <description>self-preferencing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu74dacb11fc20b6d5e56d92824e5407ce_4775430_512x512_fill_lanczos_center_2.png</url>
-      <title>Florian Dendorfer</title>
-      <link>/author/florian-dendorfer/</link>
+      <title>self-preferencing</title>
+      <link>/tag/self-preferencing/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/amazon_box/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>/publication/amazon_box/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Cost of the Cold-Start Problem on Airbnb</title>
-      <link>/publication/ratings/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/ratings/</guid>
       <description></description>
     </item>
     
